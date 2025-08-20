@@ -57,7 +57,7 @@ I'm a **developer** and also a **networking student** who loves to create innova
 
 ## 🚀 Featured Projects
 
-### **Retune** - AI-Powered Social Media Content Generator
+### - AI-Powered Social Media Content Generator
 
 > A platform that connects with your social media accounts, takes a video from the internet, and generates a post based on it using ChatGPT integration.
 
@@ -84,7 +84,6 @@ I'm a **developer** and also a **networking student** who loves to create innova
 - 🎨 **Modern Design** - Clean and attractive UI/UX
 - 🎭 **3D Components** - Interactive 3D elements
 - 📱 **Responsive** - Works perfectly on all devices
-- ⚡ **Fast Performance** - Optimized for speed
 
 **Tech Stack:** Next.js, React, 3D Libraries, Modern CSS
 
@@ -119,7 +118,7 @@ I'm a **developer** and also a **networking student** who loves to create innova
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/-Abd%20El%20Jelil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-el-jelil-m-52352123a/)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jelilvadel)
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/medjelil)
   
 </div>
 
